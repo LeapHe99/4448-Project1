@@ -1,7 +1,7 @@
 # Project name: 
 Animal Management Association
 
-#Project team names:
+# Project team names:
 Oliver He
 
 # What did we do：
